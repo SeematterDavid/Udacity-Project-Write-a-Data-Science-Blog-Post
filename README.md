@@ -38,4 +38,5 @@ The key conclusions of the analysis are available at the [post](https://medium.c
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to StackOverflow for the data. 
+Must give credit to Udacity courses for some of code ideas, and to StackOverflow for the data.
+Data is directly taken from StackOverflow and licensed under the ODbL license
